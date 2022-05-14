@@ -152,3 +152,4 @@ pd.set_option('display.max_columns', None) # 모든 열 보기
 34. df의 NaN 값 ‘이연승’ 으로 채우기
     df.fillna("이연승")
 """
+ 

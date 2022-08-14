@@ -14,7 +14,7 @@ pd.set_option('display.max_columns', None) # 모든 열 보기
     df.drop("평균입학금(원)", axis=1, inplace=True)
 
 
-3. 위 df 파일에서 2,3 행 삭제
+3. 위 df 파일에서 2,3 행 삭제!
     df.drop([2,3], axis=0, inplace=True)
 
 
